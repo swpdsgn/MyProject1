@@ -116,3 +116,6 @@ Intermediate/CachedAssetRegistry.bin
 *.png
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.log
+*.log
+*.ini
+Saved/Config/Windows/Engine.ini
