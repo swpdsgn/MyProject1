@@ -119,3 +119,6 @@ Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.log
 *.ini
 Saved/Config/Windows/Engine.ini
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.png
+Saved/Logs/MyProject1.log
