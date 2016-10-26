@@ -112,3 +112,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Intermediate/CachedAssetRegistry.bin
+*.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.log
